@@ -28,7 +28,9 @@ const View = () => {
         <p>{item.phone}</p>
         <p>{item.email}</p>
         <p>{item.website}</p>
+        <Link to="/" ><button className="btn btn-primary my-4" >Back</button> </Link>
     </div>
+
     </>
   )
 }
