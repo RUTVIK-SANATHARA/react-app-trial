@@ -77,7 +77,7 @@ const Crud = () => {
           }
 
         </table>
-             {/* <Link to="/Adduser" ><button className="btn btn-primary my-4" >Add User</button> </Link> */}
+             <Link to="/Adduser" ><button className="btn btn-primary my-4" >Add User</button> </Link>
       </div>  }
     </>
   )
